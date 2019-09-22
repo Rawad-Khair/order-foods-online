@@ -1,0 +1,426 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "title": "pastry",
+            "img_src":"images/categories/pastry.png",
+            "info":"it is info about this brand"
+        },
+        {
+            "id": 2,
+            "title": "pizza",
+            "img_src":"images/categories/pizza.png",
+            "info":"it is info about this brand"
+        },
+        {
+            "id": 3,
+            "title": "popular foods",
+            "img_src":"images/categories/popular.png",
+            "info":"it is info about this brand"
+        },
+        {
+            "id": 4,
+            "title": "fast food",
+            "img_src":"images/categories/fast.png",
+            "info":"it is info about this brand"
+        },
+        {
+            "id": 5,
+            "title": "west food",
+            "img_src":"images/categories/west.png",
+            "info":"it is info about this brand"
+        },
+        {
+            "id": 6,
+            "title": "sweets",
+            "img_src":"images/categories/sweets.png",
+            "info":"it is info about this brand"
+        },
+        {
+            "id": 7,
+            "title": "drinks and juices",
+            "img_src":"images/categories/drink.png",
+            "info":"it is info about this brand"
+        },
+        {
+            "id": 8,
+            "title": "vegetables and fruits",
+            "img_src":"images/categories/vegetables_and_fruits.png",
+            "info":"it is info about this brand"
+        }
+    ],
+    "resturants":[ 
+        {
+            "id": 1,
+            "title": "resturant-1",
+            "category": "fast Food",
+            "motto":"This is a motto for this place",
+            "logo":"images/resturants/logo/logo1.jpg",
+            "images":["images/resturants/images/image-1.jpg","images/resturants/images/image-2.jpg","images/resturants/images/image-3.jpg"],
+            "menu":["product1","product2"],
+            "info": "This is an information about this Resturant",
+            "address":"country-city-street-14",
+            "phone":"12345679-12454047",
+            "ranking": 2,
+            "open": false,
+            "recommended": false 
+        },
+        {
+            "id": 2,
+            "title": "resturant-2",
+            "category": "pastry",
+            "motto":"This is a motto for this place",
+            "logo":"images/resturants/logo/logo1.jpg",
+            "images":["images/resturants/images/image-1.jpg","images/resturants/images/image-2.jpg","images/resturants/images/image-3.jpg"],
+            "menu":["product1","product2"],
+            "info": "This is an information about this Resturant",
+            "address":"country-city-street-14",
+            "phone":"12345679-12454047",
+            "ranking": 1,
+            "open": false,
+            "recommended": true
+         },
+        {
+            "id": 3,
+            "title": "resturant-3",
+            "category": "fast Food",
+            "motto":"This is a motto for this place",
+            "logo":"images/resturants/logo/logo1.jpg",
+            "images":["images/resturants/images/image-1.jpg","images/resturants/images/image-2.jpg","images/resturants/images/image-3.jpg"],
+            "menu":["product1","product2"],
+            "info": "This is an information about this Resturant",
+            "address":"country-city-street-14",
+            "phone":"12345679-12454047",
+            "ranking": 5,
+            "open": false,
+            "recommended": false 
+        },
+        {
+            "id": 4,
+            "title": "resturant-4",
+            "category": "pastry",
+            "motto":"This is a motto for this place",
+            "logo":"images/resturants/logo/logo1.jpg",
+            "images":["images/resturants/images/image-1.jpg","images/resturants/images/image-2.jpg","images/resturants/images/image-3.jpg"],
+            "menu":["product1","product2"],
+            "info": "This is an information about this Resturant",
+            "address":"country-city-street-14",
+            "phone":"12345679-12454047",
+            "ranking": 4,
+            "open": false,
+            "recommended": false 
+        },
+        {
+            "id": 5,
+            "title": "resturant-5",
+            "category": "pizza",
+            "motto":"This is a motto for this place",
+            "logo":"images/resturants/logo/logo1.jpg",
+            "images":["images/resturants/images/image-1.jpg","images/resturants/images/image-2.jpg","images/resturants/images/image-3.jpg"],
+            "menu":["product1","product2"],
+            "info": "This is an information about this Resturant",
+            "address":"country-city-street-14",
+            "phone":"12345679-12454047",
+            "ranking": 3,
+            "open": false,
+            "recommended": true
+         },
+        {
+            "id": 6,
+            "title": "resturant-6",
+            "category": "fast",
+            "motto":"This is a motto for this place",
+            "logo":"images/resturants/logo/logo1.jpg",
+            "images":["images/resturants/images/image-1.jpg","images/resturants/images/image-2.jpg","images/resturants/images/image-3.jpg"],
+            "menu":["product1","product2"],
+            "info": "This is an information about this Resturant",
+            "address":"country-city-street-14",
+            "phone":"12345679-12454047",
+            "ranking": 2,
+            "open": false,
+            "recommended": true
+         },
+        {
+            "id": 7,
+            "title": "resturant-7",
+            "category": "pastry",
+            "motto":"This is a motto for this place",
+            "logo":"images/resturants/logo/logo1.jpg",
+            "images":["images/resturants/images/image-1.jpg","images/resturants/images/image-2.jpg","images/resturants/images/image-3.jpg"],
+            "menu":["product1","product2"],
+            "info": "This is an information about this Resturant",
+            "address":"country-city-street-14",
+            "phone":"12345679-12454047",
+            "ranking": 5,
+            "open": false,
+            "recommended": false 
+        },
+        {
+            "id": 8,
+            "title": "resturant-8",
+            "category": "popular foods",
+            "motto":"This is a motto for this place",
+            "logo":"images/resturants/logo/logo1.jpg",
+            "images":["images/resturants/images/image-1.jpg","images/resturants/images/image-2.jpg","images/resturants/images/image-3.jpg"],
+            "menu":["product1","product2"],
+            "info": "This is an information about this Resturant",
+            "address":"country-city-street-14",
+            "phone":"12345679-12454047",
+            "ranking": 4,
+            "open": false,
+            "recommended": false 
+        },
+        {
+            "id": 9,
+            "title": "resturant-9",
+            "category": "pizza",
+            "motto":"This is a motto for this place",
+            "logo":"images/resturants/logo/logo1.jpg",
+            "images":["images/resturants/images/image-1.jpg","images/resturants/images/image-2.jpg","images/resturants/images/image-3.jpg"],
+            "menu":["product1","product2"],
+            "info": "This is an information about this Resturant",
+            "address":"country-city-street-14",
+            "phone":"12345679-12454047",
+            "ranking": 3,
+            "open": false,
+            "recommended": false 
+        },
+        {
+            "id": 10,
+            "title": "resturant-10",
+            "category": "fast food",
+            "motto":"This is a motto for this place",
+            "logo":"images/resturants/logo/logo1.jpg",
+            "images":["images/resturants/images/image-1.jpg","images/resturants/images/image-2.jpg","images/resturants/images/image-3.jpg"],
+            "menu":["product1","product2"],
+            "info": "This is an information about this Resturant",
+            "address":"country-city-street-14",
+            "phone":"12345679-12454047",
+            "ranking": 5,
+            "open": false,
+            "recommended": true
+         }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Product-1",
+            "resturant":"resturant-1",
+            "price": 250,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"header1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 2,
+            "title": "Product-2",
+            "resturant":"resturant-2",
+            "price": 140,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 3,
+            "title": "Product-3",
+            "resturant":"resturant-3",
+            "price": 250,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 4,
+            "title": "Product-4",
+            "resturant":"resturant-4",
+            "price": 120,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 5,
+            "title": "Product-1",
+            "resturant":"resturant-5",
+            "price": 45,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 6,
+            "title": "Product-6",
+            "resturant":"resturant-6",
+            "price": 90,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 7,
+            "title": "Product-7",
+            "resturant":"resturant-7",
+            "price": 1470,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 8,
+            "title": "Product-8",
+            "resturant":"resturant-8",
+            "price": 610,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"header2",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 9,
+            "title": "Product-9",
+            "resturant":"resturant-9",
+            "price": 25,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 10,
+            "title": "Product-10",
+            "resturant":"resturant-10",
+            "price": 100,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 11,
+            "title": "Product-11",
+            "resturant":"resturant-1",
+            "price": 250,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product11",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 12,
+            "title": "Product-12",
+            "resturant":"resturant-2",
+            "price": 140,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 13,
+            "title": "Product-13",
+            "resturant":"resturant-3",
+            "price": 250,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 14,
+            "title": "Product-14",
+            "resturant":"resturant-4",
+            "price": 120,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 15,
+            "title": "Product-11",
+            "resturant":"resturant-5",
+            "price": 45,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 16,
+            "title": "Product-16",
+            "resturant":"resturant-6",
+            "price": 90,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 17,
+            "title": "Product-17",
+            "resturant":"resturant-7",
+            "price": 1470,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 18,
+            "title": "Product-18",
+            "resturant":"resturant-8",
+            "price": 610,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 19,
+            "title": "Product-19",
+            "resturant":"resturant-9",
+            "price": 25,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        },
+        {
+            "id": 20,
+            "title": "Product-20",
+            "resturant":"resturant-10",
+            "price": 100,
+            "image":"images/resturants/images/image-1.jpg",
+            "header_on_menu":"product1",
+            "info": "This is an information about this product",
+            "quantity": 0,
+            "total": 0
+        }
+    ]
+}
